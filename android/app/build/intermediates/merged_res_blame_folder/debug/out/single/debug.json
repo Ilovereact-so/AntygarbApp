@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\font_poppinsbold.ttf.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\font\\poppinsbold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-mdpi_splash.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-hdpi_splash.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\drawable_splash.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\drawable\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.antygarbnext.app-merged_res-29:/layout_launch_screen.xml.flat",
+        "source": "com.antygarbnext.app-main-31:/layout/launch_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\drawable_launch_screen.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\drawable\\launch_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\layout_launch_screen.xml.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\layout\\launch_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\wybra\\.gradle\\daemon\\7.5.1\\com.antygarbnext.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    }
+]
